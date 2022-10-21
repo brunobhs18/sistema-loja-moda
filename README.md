@@ -18,7 +18,7 @@ Um Sistema Financeiro na linguagem JAVA com banco de dados MySQL.
 <br>
 
 <p align="center">
-  <img alt="telalogin" src=".img/inicio.png" width="100%">
+  <img alt="telalogin" src=".github/inicio.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -26,7 +26,7 @@ Um Sistema Financeiro na linguagem JAVA com banco de dados MySQL.
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [JAVA](https://www.java.com/pt-BR/)
-- [MySQL](https://www.mysql.com/)
+- [MySQL](https://www.mysql.com/).github
 - [iText](https://itextpdf.com/)
 
 ## 💻 Projeto
@@ -36,28 +36,28 @@ Um Sistema Financeiro na linguagem JAVA com banco de dados MySQL para uma empres
 ## 🔖 Layout
 
 <p align="center">
-  <img alt="telainicial" src=".img/tela.png" width="100%">
+  <img alt="telainicial" src=".github/tela.png" width="100%">
 </p>
 <p align="center">
-  <img alt="telafornecedor" src=".img/tela-fornecedor.png" width="60%">
+  <img alt="telafornecedor" src=".github/tela-fornecedor.png" width="60%">
 </p>
 <p align="center">
-  <img alt="telacliente" src=".img/tela-cliente.png" width="60%">
+  <img alt="telacliente" src=".github/tela-cliente.png" width="60%">
 </p>
 <p align="center">
-  <img alt="telaprodutos" src=".img/tela-produto.png" width="60%">
+  <img alt="telaprodutos" src=".github/tela-produto.png" width="60%">
 </p>
 <p align="center">
-  <img alt="telavenda" src=".img/tela-venda.png" width="60%">
+  <img alt="telavenda" src=".github/tela-venda.png" width="60%">
 </p>
 <p align="center">
-  <img alt="teladespesas" src=".img/tela-despesa.png" width="60%">
+  <img alt="teladespesas" src=".github/tela-despesa.png" width="60%">
 </p>
 <p align="center">
-  <img alt="opcoesmenu" src=".img/opcoes-menu.png" width="100%">
+  <img alt="opcoesmenu" src=".github/opcoes-menu.png" width="100%">
 </p>
 <p align="center">
-  <img alt="relatorionome" src=".img/relatorio-nome.png" width="100%">
+  <img alt="relatorionome" src=".github/relatorio-nome.png" width="100%">
 </p>
 
 ## :memo: Licença
