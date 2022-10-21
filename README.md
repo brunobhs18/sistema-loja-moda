@@ -36,28 +36,28 @@ Um Sistema Financeiro na linguagem JAVA com banco de dados MySQL para uma empres
 ## 🔖 Layout
 
 <p align="center">
-  <img alt="telainicial" src=".github/tela.png" width="100%">
+  <img alt="telainicial" src=".github/tela.png" width="90%">
 </p>
 <p align="center">
-  <img alt="telafornecedor" src=".github/tela-fornecedor.png" width="60%">
+  <img alt="telafornecedor" src=".github/tela-fornecedor.png" width="90%">
 </p>
 <p align="center">
-  <img alt="telacliente" src=".github/tela-cliente.png" width="60%">
+  <img alt="telacliente" src=".github/tela-cliente.png" width="90%">
 </p>
 <p align="center">
-  <img alt="telaprodutos" src=".github/tela-produto.png" width="60%">
+  <img alt="telaprodutos" src=".github/tela-produto.png" width="90%">
 </p>
 <p align="center">
-  <img alt="telavenda" src=".github/tela-venda.png" width="60%">
+  <img alt="telavenda" src=".github/tela-venda.png" width="90%">
 </p>
 <p align="center">
-  <img alt="teladespesas" src=".github/tela-despesa.png" width="60%">
+  <img alt="teladespesas" src=".github/tela-despesa.png" width="90%">
 </p>
 <p align="center">
-  <img alt="opcoesmenu" src=".github/opcoes-menu.png" width="100%">
+  <img alt="opcoesmenu" src=".github/opcoes-menu.png" width="90%">
 </p>
 <p align="center">
-  <img alt="relatorionome" src=".github/relatorio-nome.png" width="100%">
+  <img alt="relatorionome" src=".github/relatorio-nome.png" width="90%">
 </p>
 
 ## :memo: Licença
